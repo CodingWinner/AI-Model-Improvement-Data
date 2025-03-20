@@ -1,0 +1,4 @@
+Num neurons: 356
+Num inputs/outputs: 4
+Default connection strength: 10
+Mutation range required: 950

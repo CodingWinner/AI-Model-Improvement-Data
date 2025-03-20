@@ -1,0 +1,4 @@
+Layer num: 2
+Architecture: {512, 100}
+a: 0.01
+b: 0.9
