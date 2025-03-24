@@ -1,4 +1,0 @@
-Layer num: 3
-Architecture: {256, 256, 100}
-a: 0.01
-b: 0.9

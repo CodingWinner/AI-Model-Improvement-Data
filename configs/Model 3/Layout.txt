@@ -1,8 +1,0 @@
-"Layer num": the number of layers for the neural network
-"Architecture": a list of the number of neurons for each layer. The last element is the number of neurons in the last layer
-"a": The training parameter alpha for the model
-"b": The training parameter beta for the model
-
-Notes:
-All activation configurations are Leaky RELU other than the final which is regular RELU.
-The policy has a 5% chance of causing the agent to take a random action during training and a 95% chance to go with the best action as suggested by the agent.

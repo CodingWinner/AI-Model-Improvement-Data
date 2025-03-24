@@ -1,4 +1,0 @@
-Number of neurons: 2276
-Maximum number of inputs: 24
-Maximum threshold: 120.000000
-Maximum strength: 5.000000

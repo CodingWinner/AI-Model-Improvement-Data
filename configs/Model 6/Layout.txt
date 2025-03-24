@@ -1,7 +1,0 @@
-"Num neurons": The number of neurons in the brain
-"Num inputs/outputs": the maximum number of inputs to each neuron and the maximum number of outputs to each neuron
-"Default connection strength": the base connection strength for newly made input-output connections between neurons
-"Mutation range required": The minimum value required to grow a connection for each neuron. The range is 1 - 1000.
-
-Notes:
-A random number is pulled from 1-1000 for the mutation value for each neuron and if it is equal to or higher than "Mutation range required", the neuron gains a connection.
